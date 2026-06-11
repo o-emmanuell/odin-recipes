@@ -9,4 +9,5 @@ By the time I complete this project, I will have successfully demonstrated the f
 2. Core HTML Foundations:  Utilizing structured headings (`<h1>` through `<h6>`), paragraphs, lists (ordered and unordered), and emphasis tags.
 3. Web Navigation: Implementing anchor tags (`<a>`) to build functional internal navigation between the home page and individual recipe pages.
 4. Media Handling:  Properly embedding and sizing images using absolute and relative web paths.
+
 5.File Structure Organization: Managing clean paths and file organization within a local development workspace.
