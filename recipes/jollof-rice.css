@@ -11,3 +11,19 @@ img{
 h1{
     text-align: center; color: white; background-color: darkred; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 }
+body {
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    width: 500px; 
+    height: auto;    
+    
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
